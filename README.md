@@ -4,7 +4,7 @@
 
 This small application was made to help calculate sales tax on a variety of items.
 While planning this app, I really did go down a deep rabbit hole! There are so many technologies out there
-and I couldn't decide which one to use. In the end, I ended up going with something simple, a Windows Forms app. I choce
+and I couldn't decide which one to use. In the end, I ended up going with something simple, a Windows Forms app. I chose
 this because I wanted to challenge myself and learn something new along the way. Plus it has a heavy use of C#,
 so it's a win-win!
 
