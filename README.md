@@ -10,7 +10,8 @@ so it's a win-win!
 
 ### Requirements
 
-(Optional)Visual Studios 2022
+Visual Studios 2022
+.Net 6
 
 ### Installation
 
@@ -38,15 +39,15 @@ Now finally click on the green arrow with the words 'SalesTax' next to it to lau
 To use this app, you need to make sure there are no empty fields when adding an item to the basket. If there are empty fields, it will
 prompt you to fill them in when the 'Add To Basket' button is clicked. 
 
-![alt text](https://i.imgur.com/HtQOk4O.png)
+![alt text](https://i.imgur.com/OkrRMqz.png)
 
 Once you add an item to your basket, the item should appear at the bottom.
 
-![alt text](https://i.imgur.com/ALyxdsZ.png)
+![alt text](https://i.imgur.com/BDCYwys.png)
 
 The 'Empty Basket' button can be clicked to empty your basket if desired.
 
 If you are happy with the items in your basket, click on the 'Total' button at the bottom to generate a receipt with the total price
 and sales tax.
 
-![alt text](https://i.imgur.com/v5Avl4I.png)
+![alt text](https://i.imgur.com/cHqikF3.png)
